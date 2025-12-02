@@ -21,7 +21,7 @@ Details = [
 ]
 </pre>
 <br>
-<!--> -->
+
 <div align="center">
 <!-- Snake Animation -->
 <picture>
