@@ -1,6 +1,6 @@
 <div align="right"> <h1> K!shore v²</h1>  </div>
 
-
+<div><p>
 Details = [
 {'Name':'Kishore',
 'Role': 'Python Backend Developer',
@@ -8,7 +8,7 @@ Details = [
 'Conract': {'email' : 'kishorevv12@gmail.com',
             'linkedin' : 'https://www.linkedin.com/in/kishore-vv '}
   'education':'Electronics and Communication Enginner'}
-]
+] </p></div>
 
 <!--
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
