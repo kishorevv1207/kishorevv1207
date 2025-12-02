@@ -11,11 +11,11 @@
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="70%">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="85%">
 </div>
 
 <div align="center">
-  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="600">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="850">
 </div>
 
 <picture>
