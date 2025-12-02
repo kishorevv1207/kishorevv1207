@@ -1,4 +1,4 @@
-## Hi This is K!shore v²
+<div align="right"> K!shore v² </div>div>
 
 
 - 🔭 I’m currently working on ERP Application for small Finance...
@@ -8,10 +8,7 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: loading...
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=kishorewv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
-</div>
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
 
 
 <picture>
@@ -21,6 +18,11 @@
 </picture>
 
 
+<div align="center">
+  <img src="./streak-stats.svg" alt="GitHub Streak" />
+</div>
+
+
 
 <!-- <img src="profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph"> -->
 
@@ -28,4 +30,3 @@
 <!-- OR Rainbow Theme <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph"> -->
 
 <!-- OR Night Theme -->
-<img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
