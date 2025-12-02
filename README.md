@@ -10,6 +10,13 @@
 
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
 
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="70%">
+</div>
+
+<div align="center">
+  <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="600">
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
