@@ -4,16 +4,16 @@
 <h3 align="left">👨‍💻 About Me</h3>
 <pre>
 Details = [
-{
-'Name': 'Kishore',
-'Role': 'Python Dev',
-'Skills': ['Python', 'FastAPI'],
-'Contact': {
-'email': 'kishorevv12',
-'linkedin': 'kishore-vv'
-},
-'Education': 'E&C Engineer'
-}
+    {
+        'Name': 'Kishore',
+        'Role': 'Python Backend Developer',
+        'Skills': ['Python', 'FastAPI', 'PostgreSQL'],
+        'Contact': {
+            'email': 'kishorevv12@gmail.com',
+            'linkedin': 'https://www.linkedin.com/in/kishore-vv'
+        },
+        'education': 'Electronics and Communication Engineer'
+    }
 ]
 </pre>
 <br>
