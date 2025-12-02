@@ -22,4 +22,5 @@
 <!-- OR Rainbow Theme <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph"> -->
 
 <!-- OR Night Theme -->
+<img src="profile-3d-contrib/profile-season-animate.svg" alt="3d contribution graph">
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
