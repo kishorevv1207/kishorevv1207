@@ -1,14 +1,19 @@
 <div align="right"> <h1> K!shore v²</h1>  </div>
 
-<div><p>
+<pre>
 Details = [
-{'Name':'Kishore',
-'Role': 'Python Backend Developer',
-'Skills': ['Python', 'FastAPI', 'PosrgreSQL']
-'Conract': {'email' : 'kishorevv12@gmail.com',
-            'linkedin' : 'https://www.linkedin.com/in/kishore-vv '}
-  'education':'Electronics and Communication Enginner'}
-] </p></div>
+    {
+        'Name': 'Kishore',
+        'Role': 'Python Backend Developer',
+        'Skills': ['Python', 'FastAPI', 'PostgreSQL'],
+        'Contact': {
+            'email': 'kishorevv12@gmail.com',
+            'linkedin': 'https://www.linkedin.com/in/kishore-vv'
+        },
+        'education': 'Electronics and Communication Engineer'
+    }
+]
+</pre>
 
 <!--
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
