@@ -4,8 +4,17 @@
  
 <tr>
 <td width="50%" valign="top">
- 
-<h3 align="left">👨‍💻 About Me </h3>
+<div align="center">
+<!-- Snake Animation -->
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+</div>
+
+<br>
+
 <pre>
 Details = [
  {
@@ -20,22 +29,11 @@ Details = [
 }
 ]
 </pre>
-<br>
-
-<div align="center">
-<!-- Snake Animation -->
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
-<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
-</div>
 
 
 
 </td>
 <td width="50%" valign="top">
-<h3 align="center">📊 Contributions</h3>
 <div align="center">
 <!-- 3D Graph -->
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph" width="100%" />
