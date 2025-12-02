@@ -8,7 +8,8 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: loading...
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-![Snake animation](https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/snake.svg)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
+</picture>
