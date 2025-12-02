@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=kishorevv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="./streak-stats.svg" alt="GitHub Streak" />
 </div>
 
 
