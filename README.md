@@ -1,4 +1,4 @@
-<div align="right"> K!shore v² </div>div>
+<div align="right"> <h1> K!shore v²</h1>  </div>
 
 
 - 🔭 I’m currently working on ERP Application for small Finance...
@@ -19,7 +19,7 @@
 
 
 <div align="center">
-  <img src="./streak-stats.svg" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=kishorevv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 
