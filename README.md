@@ -8,3 +8,8 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: loading...
 
+
+### Watch my contribution graph get eaten by the snake 🐍
+
+![Snake animation](https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/snake.svg)
+
