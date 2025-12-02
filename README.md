@@ -9,7 +9,10 @@
 - ⚡ Fun fact: loading...
 
 
-<img src="https://streak-stats.demolab.com?user=kishorevv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=kishorewv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
