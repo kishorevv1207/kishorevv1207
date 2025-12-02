@@ -1,12 +1,14 @@
 <div align="right"> <h1> K!shore v²</h1>  </div>
 
 
-- 🔭 I’m currently working on ERP Application for small Finance...
-- 🌱 I’m currently learning Data Science...
-- 👯 I’m looking to collaborate on Front devs...
-- 📫 How to reach me: kishorevv12@gmail.com
-- 😄 Pronouns: He/Him...
-- ⚡ Fun fact: loading...
+Details = [
+{'Name':'Kishore',
+'Role': 'Python Backend Developer',
+'Skills': ['Python', 'FastAPI', 'PosrgreSQL']
+'Conract': {'email' : 'kishorevv12@gmail.com',
+            'linkedin' : 'https://www.linkedin.com/in/kishore-vv '}
+  'education':'Electronics and Communication Enginner'}
+]
 
 <!--
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
