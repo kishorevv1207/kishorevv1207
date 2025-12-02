@@ -1,4 +1,4 @@
-## Hi K!shore v²
+## Hi This is K!shore v²
 
 
 - 🔭 I’m currently working on ERP Application for small Finance...
