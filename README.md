@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him...
 - ⚡ Fun fact: loading...
 
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=FEFE5B&fire=FEFE5B&currStreakLabel=FEFE5B" alt="GitHub Streak" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
@@ -22,5 +24,4 @@
 <!-- OR Rainbow Theme <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3d contribution graph"> -->
 
 <!-- OR Night Theme -->
-<img src="profile-3d-contrib/profile-season-animate.svg" alt="3d contribution graph">
 <img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
