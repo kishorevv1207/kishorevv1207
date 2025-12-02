@@ -22,7 +22,9 @@
   <img src="./streak-stats.svg" alt="GitHub Streak" />
 </div>
 
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=kishorevv1207&theme=transparent&hide_border=true" alt="GitHub Streak" />
+</div>
 
 <!-- <img src="profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph"> -->
 
