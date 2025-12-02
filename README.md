@@ -13,3 +13,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kishorevv1207/kishorevv1207/output/github-contribution-grid-snake.svg">
 </picture>
+
+
+
+<!-- Green Theme -->
+<img src="profile-3d-contrib/profile-green-animate.svg" alt="3d contribution graph">
+
+<!-- OR Rainbow Theme -->
+<img src="profile-3d-contrib/profile-rainbow.svg" alt="3d contribution graph">
+
+<!-- OR Night Theme -->
+<img src="profile-3d-contrib/profile-night-view.svg" alt="3d contribution graph">
