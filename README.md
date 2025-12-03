@@ -23,9 +23,10 @@ Details = [
     'Skills': ['Python','FastAPI','PostgreSQL'],
     'Contact': {
         'email': 'kishorevv12@gmail.com',
-        'linkedin': '/kishore-vv'
+        'linkedin': 'https://www.linkedin.com/in/kishore-vv',
+        'LeetCode': 'https://leetcode.com/kishorevv
     },
-    'education': 'Electronics and Communication Engineer'
+    'Education': 'Electronics and Communication Engineer'
 }
 ]
 </pre>
