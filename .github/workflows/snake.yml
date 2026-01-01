@@ -11,8 +11,8 @@ on:
   # Run on every push on the master/main branch
   push:
     branches:
-    - master
-    - main
+      - master
+      - main
 
 jobs:
   generate:
@@ -30,6 +30,8 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+          from: 2026-01-01
+          to: 2026-12-31
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
