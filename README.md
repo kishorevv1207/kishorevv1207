@@ -20,24 +20,14 @@ Details = [
  {
     'Name': 'Kishore',
     'Role': Application Developer',
-    'Skills': 'PyDev'
-<div>
-  <strong>Contact:</strong>
-  <ul>
-    <li>Email: <a href="mailto:kishorevv12@gmail.com">kishorevv12@gmail.com</a></li>
-    <li>LinkedIn: 
-      <a href="https://www.linkedin.com/in/kishore-vv" target="_blank">
+    'Skills': 'PyDev',
+ 'Contact;:{
+    'Email': <a href="mailto:kishorevv12@gmail.com">kishorevv12@gmail.com</a>,
+    'LinkedIn': <a href="https://www.linkedin.com/in/kishore-vv" target="_blank">
         https://www.linkedin.com/in/kishore-vv
       </a>
-    </li>
-    <li>LeetCode: 
-      <a href="https://leetcode.com/kishorevv" target="_blank">
-        https://leetcode.com/kishorevv
+    'LeetCode': <a href="https://leetcode.com/kishorevv" target="_blank"> https://leetcode.com/kishorevv,
       </a>
-    </li>
-  </ul>
-</div>
-
     },
     'Education': 'Electronics and Communication Engineer'
 }
