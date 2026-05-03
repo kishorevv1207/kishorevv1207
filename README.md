@@ -21,10 +21,23 @@ Details = [
     'Name': 'Kishore',
     'Role': Application Developer',
     'Skills': 'PyDev'
-    'Connect': {
-- Email: kishorevv12@gmail.com
-- LinkedIn: [https://www.linkedin.com/in/kishore-vv](https://www.linkedin.com/in/kishore-vv)
-- LeetCode: [https://leetcode.com/kishorevv](https://leetcode.com/kishorevv)
+<div>
+  <strong>Contact:</strong>
+  <ul>
+    <li>Email: <a href="mailto:kishorevv12@gmail.com">kishorevv12@gmail.com</a></li>
+    <li>LinkedIn: 
+      <a href="https://www.linkedin.com/in/kishore-vv" target="_blank">
+        https://www.linkedin.com/in/kishore-vv
+      </a>
+    </li>
+    <li>LeetCode: 
+      <a href="https://leetcode.com/kishorevv" target="_blank">
+        https://leetcode.com/kishorevv
+      </a>
+    </li>
+  </ul>
+</div>
+
     },
     'Education': 'Electronics and Communication Engineer'
 }
