@@ -19,12 +19,14 @@
 Details = [
  {
     'Name': 'Kishore',
-    'Role': 'Python Dev',
-    'Skills': ['Python','FastAPI','PostgreSQL'],
-    'Contact': {
+    'Role': Application Developer',
+    'Skills': 'PyDev'
+    'connect': {
         'email': 'kishorevv12@gmail.com',
-        'linkedin': 'https://www.linkedin.com/in/kishore-vv',
-        'LeetCode': 'https://leetcode.com/kishorevv
+        <!-- 'linkedin': 'https://www.linkedin.com/in/kishore-vv', -->
+        <!-- 'LeetCode': 'https://leetcode.com/kishorevv -->    
+        'LinkedIn': [https://www.linkedin.com/in/kishore-vv](https://www.linkedin.com/in/kishore-vv),
+        'LeetCode': [https://leetcode.com/kishorevv](https://leetcode.com/kishorevv)
     },
     'Education': 'Electronics and Communication Engineer'
 }
